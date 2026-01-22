@@ -346,7 +346,7 @@ export function LeftSidebar() {
                 onClick={() => window.open(TWITTER_URL, "_blank")}
               >
                 <a
-                  href="https://x.com/i/communities/2012249752759423395/"
+                  href=""
                   target="_blank"
                   className="flex items-center"
                 >
